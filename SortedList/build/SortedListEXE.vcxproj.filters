@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\User\OneDrive\Technion\SemesterB\mtm\hw\hw2\mtm-ex2\SortedList\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\User\OneDrive\Technion\SemesterB\mtm\hw\hw2\mtm-ex2\SortedList\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{D353DA88-22EE-3224-9DA9-548B670D842E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

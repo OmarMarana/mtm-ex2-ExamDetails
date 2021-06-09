@@ -1,0 +1,31 @@
+{
+  "C_Cpp_Runner.cCompilerPath": "C:\\TDM-GCC-64\\bin\\gcc.exe",
+  "C_Cpp_Runner.cppCompilerPath": "C:\\TDM-GCC-64\\bin\\g++.exe",
+  "C_Cpp_Runner.debuggerPath": "C:\\TDM-GCC-64\\bin\\gdb.exe",
+  "C_Cpp_Runner.makePath": "C:\\TDM-GCC-64\\bin\\mingw32-make.exe",
+  "files.associations": {
+    "new": "cpp",
+    "deque": "cpp",
+    "string": "cpp",
+    "vector": "cpp",
+    "array": "cpp",
+    "atomic": "cpp",
+    "*.tcc": "cpp",
+    "unordered_map": "cpp",
+    "iterator": "cpp",
+    "memory_resource": "cpp",
+    "optional": "cpp",
+    "string_view": "cpp",
+    "functional": "cpp",
+    "istream": "cpp",
+    "ostream": "cpp",
+    "ranges": "cpp",
+    "stdexcept": "cpp",
+    "streambuf": "cpp",
+    "system_error": "cpp",
+    "tuple": "cpp",
+    "iostream": "cpp",
+    "algorithm": "cpp",
+    "memory": "cpp"
+  }
+}
